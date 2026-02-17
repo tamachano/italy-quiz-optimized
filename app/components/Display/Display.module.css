@@ -1,0 +1,6 @@
+.display{
+    font-size:clamp(20px, 5vw, 30px);
+    font-weight: 700;
+    text-align: center;
+    line-height:1.55;
+}
