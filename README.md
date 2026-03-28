@@ -7,7 +7,7 @@
 また、それによって**どのような価値**が生まれるのか？について**ストーリー**で解説します。
 
 ---
-<img width="681" height="595" alt="image" src="https://github.com/user-attachments/assets/2b9037cc-a9e7-430e-855c-8375efcbeb21" />
+<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/2b9037cc-a9e7-430e-855c-8375efcbeb21" />
 
 まず、初めに目に飛び込んでくるのは
 
@@ -17,7 +17,7 @@
 そして、思わずクリックしたくなるような文字でまずはスタートしてもらいます。
 
 ---
-<img width="681" height="596" alt="image" src="https://github.com/user-attachments/assets/2d3d39a7-7fed-4f1e-af45-d71617112e0a" />
+<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/2d3d39a7-7fed-4f1e-af45-d71617112e0a" />
 
 そして実際にクリックしますと、ここからはクイズ画面になり、
 
@@ -41,7 +41,7 @@
 **高級感の演出**と**ユーザーを丁寧に包み込む体験**を設計しています。
 
 ---
-<img width="170" height="150" alt="image" src="https://github.com/user-attachments/assets/7579659e-1b80-4d1e-8230-acac8dba9f22" />
+<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/7579659e-1b80-4d1e-8230-acac8dba9f22" />
 
 
 そして、結果と同時にビジターへのメッセージを表示させることにより、
