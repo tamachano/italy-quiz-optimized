@@ -9,15 +9,13 @@
 ---
 <img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/2b9037cc-a9e7-430e-855c-8375efcbeb21" />
 
-まず、初めに目に飛び込んでくるのは
+まず、初めに目に飛び込んでくるのはシンプルかつ情報量の少ないレイアウトで  
+**モダンかつミニマル**な印象を期待させることができます。
 
-シンプルかつ情報量の少ないレイアウトですが、
-モダンかつミニマルな印象を期待させることができます。
-
-そして、思わずクリックしたくなるような文字でまずはスタートしてもらいます。
+そして、思わずクリックしたくなるような軽いタッチの文字でまずはクリックしてもらいます。
 
 ---
-<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/2d3d39a7-7fed-4f1e-af45-d71617112e0a" />
+<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/fb56ee24-dcf9-4420-97c3-77c6b644fadf" />
 
 そして実際にクリックしますと、ここからはクイズ画面になり、
 
